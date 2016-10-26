@@ -1,3 +1,10 @@
+0.28.0+nimbis1 (2016-10-26)
+*******************
+
+- This version fixes an OpenID provider bug not passing ?next=/path.  See: 
+  https://github.com/pennersr/django-allauth/issues/1523
+
+
 0.28.0 (2016-10-13)
 *******************
 
